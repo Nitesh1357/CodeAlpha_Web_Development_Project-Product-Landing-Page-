@@ -1,0 +1,60 @@
+/* Global Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: sans-serif;
+    line-height: 1.5;
+    background-color: #97e793;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+  }
+  nav li {
+    margin-left: 20px;
+  }
+  nav a {
+    text-decoration: none;
+    color: #f4efef;
+    transition: color 0.3s ease;
+  }
+  nav a:hover {
+    color: #ccc;
+  }
+  section {
+    background-image: #3e6517 ;
+    padding: 50px;
+    text-align: center;
+  }
+  section#hero {
+    background-image: url("https://assistantadvice.com/wp-content/uploads/2020/12/keyboard.jpg");
+    background-repeat: no-repeat;
+    background-color: #c1bebe;
+  }
+  section#hero h2 {
+    margin-bottom: 20px;
+  }
+  section#hero p {
+    margin-bottom: 40px;
+  }
+  section#hero button {
+    background-color: #cec4d9;
+    color: #211d1d;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  section#
+  
